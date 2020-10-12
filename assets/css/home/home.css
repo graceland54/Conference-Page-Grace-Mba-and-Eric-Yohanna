@@ -1,4 +1,23 @@
-.test{
-    font-size: 100px;
-    color: blue;
+.header{
+    border: 1px solid #293F50;
+    min-height: 450px;
+    background-color: #293F50;
+    color: white;
+    font-weight: 50px;
+}
+
+.h1{
+    font-weight: 10px;
+}
+
+.main{
+    border: 1px solid white;
+    min-height: 450px;
+    background-color: white;
+}
+
+.footer{
+    border: 1px solid #293F50;
+    min-height: 150px;
+    background-color: #293F50;
 }

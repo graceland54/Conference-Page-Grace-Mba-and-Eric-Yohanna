@@ -124,19 +124,26 @@
 }
 
 .input{
-    border: 1px solid black; 
+    border: 0.1px solid black; 
     padding: 8px;
-    width: 500%;border-radius: 8px;
+    width: 200%;border-radius: 8px;
     margin-bottom: 10px;
     margin-top: 10px;
 }
 
 .label{
-    width: 500%;
+    width: 200%;
+}
+
+.inputnumber{
+    width: 30%;
+    padding: 8px;
+    border: 0px black;
+    border-radius: 3px;
 }
 
 .textarea{
-    border: 1px solid black; 
+    border: 0.5px solid black; 
 }
 
 .lastbutton{ 

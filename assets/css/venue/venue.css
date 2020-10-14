@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-decoration: none;
+
+    font-style: lato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    background-color: #293F50;
+    padding: 50px 10px 50px 10px;
+}
+
+.headers {
+    display: flex;
+    justify-content: center;
+}
+
+.work {
+    flex-basis: 20%;
+}
+
+.styles{
+
+    color: white;
+}
+    
+.day{
+    color:#648880;
+}
+
+.work2{
+    text-align: right;
+    margin-left: 100px;
+}
+.day{
+    margin-bottom: 10px;
+}
+
+.home{
+    display: inline-flex;
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+    /* margin-left: 300px;
+    margin-bottom: 100px;
+    width: 100px 0px 100px 0px;
+    text-align: center;
+        */ 
+}
+
+.container{
+    
+    min-height: 200px;
+    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+    color: white;
+    margin-left: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.hold{
+text-align: 20px;
+margin-left: 30px;
+}
+
+
+.mapo{
+display: flex;
+justify-content: space-evenly;
+padding: 60px 10px 60px 10px;
+}
+.joy{
+    width: 40%;
+    height: 250px;
+}
+.napo{
+    
+    display: flex;
+justify-content: space-evenly;
+padding: 20px 10px 20px 10px;
+margin-top: 0px;
+}
+
+.happy{
+    width: 40%;
+    height: 250px; 
+}
+
+.move{
+background-color:#293f50; 
+padding: 50px 10px 50px 10px;
+display: inline-flex;
+color: white;
+margin-left: 10px;
+margin-top: 20px;
+display: flex;
+text-align: right;
+
+}
+
+/* .move ul li{
+    display: inline;
+    padding: 30px;
+}     */
+
+.homer{
+    display: inline;
+    padding: 5px;
+    margin-left: 50px;
+}
+ul{
+    margin-left: 700px;
+}
+
+.save{
+    color:gray ;
+    margin-left: 100px;
+}
+    
+
+
+

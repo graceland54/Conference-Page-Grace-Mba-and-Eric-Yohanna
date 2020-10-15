@@ -1,9 +1,7 @@
 .header {
-    border: 1px solid #293F50;
     min-height: 450px;
     background-color: #293F50;
     color: white;
-    font-weight: 50px;
 }
 
 .heading a{
@@ -25,7 +23,6 @@
     margin-top: 80px;
     margin-left: 250px;
     line-height: 3em;
-      
 }
 
 .date{
@@ -38,8 +35,7 @@
 
 .navbarul li{
     display: inline;
-    padding-right: 40px;
-      
+    padding-right: 40px;  
 }
 
 .navbarul li a:hover{
@@ -48,7 +44,6 @@
 }
 .navbarul li a{
     color: white;
-    
 }
 
 .header2{
@@ -69,7 +64,6 @@
     text-align: center;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
 .button{
@@ -91,14 +85,12 @@
 }
 
 .main{
-    border: 1px solid white;
     min-height: 450px;
     background-color: white;
     display: flex;
     margin-top: 100px;
     margin-left: 15%;
     margin-right: 15%;
-   
 }
 
 .main{
@@ -108,7 +100,6 @@
 .box{
     margin-left: 2%;
     margin-right: 2%;  
-    /* margin-top: 50px; */
 }
 
 .head {
@@ -119,12 +110,10 @@
     margin-bottom: 20px;
 }
 .footer{
-    border: 1px solid #293F50;
     min-height: 100px;
     background-color: #293F50;
     margin-top: 100px;
     display: flex;
-    
 }
 
 .footpara{

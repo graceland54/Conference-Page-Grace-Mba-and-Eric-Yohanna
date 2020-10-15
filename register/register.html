@@ -47,23 +47,23 @@
             </div>
 
             <div class="labelbox">
-               <form action="" class="form">
-                    <label class="label" for="">Name</label>
-                    <input class="input"  type="text" name="fname" placeholder="Full name"> 
-                    <label class="label" for="">Email</label>
-                    <input class="input"  type="text" name="email" placeholder="Email address">
-                    <label class="label" for="">Number of passes</label>
-                    <select class="inputnumber" name="1" id="">
+               <form class="form">
+                    <label class="label" for="yourName">Name</label>
+                    <input class="input"  type="text" id="yourName" name="yourName" placeholder="Full name" value=""> 
+                    <label class="label" for="yourEmail">Email</label>
+                    <input class="input"  type="text" id="yourEmail" name="yourEmail" placeholder="Email address" value="">
+                    <label class="label" for="noPasses">Number of passes</label>
+                    <select class="inputnumber" name="noPasses" id="noPasses">
                         <option value="">1</option>
                         <option value="">2</option>
                         <option value="">3</option>
                         <option value="">4</option>
                     </select>
-                    <label for="">Comments</label>
-                    <textarea class="textarea" name="" id="" cols="40" rows="5"></textarea>
-                    <button class="lastbutton"><a href="">PURCHASE</a></button>
+                    <label for="comment">Comments</label>
+                    <textarea class="textarea" name="comment" id="comment" cols="40" rows="5"></textarea>
+                    <button class="lastbutton">PURCHASE></button>
                 </form>
-            </div>
+            </div> 
         </main>
     
         <footer class="footer">
@@ -74,5 +74,7 @@
             <li><a href="../register/register.html">REGISTER</a></li> 
           </ul>
         </footer>
+
+    <script src="../assets/javaScript/script.js"></script>
 </body>
 </html>

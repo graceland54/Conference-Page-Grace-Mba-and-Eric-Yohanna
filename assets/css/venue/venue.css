@@ -1,0 +1,127 @@
+.header {
+    border: 1px solid #293F50;
+    background-color: #293F50;
+    color: white;
+}
+
+.heading a{
+    color: white;
+}
+.menu{
+    display: flex;
+    height: 150px;
+   
+}
+
+.heading{
+    font-size: 55px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.menulist{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-left: 250px;
+    line-height: 3em;
+      
+}
+
+.date{
+    margin-left: 70px;
+}
+
+.navbarul{
+    list-style-type: none;   
+}
+
+.navbarul li{
+    display: inline;
+    padding-right: 40px;
+      
+}
+
+.navbarul li a:hover{
+   background-color: #8bb1ce;
+    
+}
+.navbarul li a{
+    color: white;
+    
+}
+
+.header2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 2em;
+    margin-top: 50px;
+    background-color: #648880;
+    height: 200px;
+}
+
+.para1{
+    font-size: 36px;
+    color: #a4cbe9;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.para2{
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(223, 204, 204);
+}
+
+.main{
+    border: 1px solid white;
+    height: 600px;
+    margin-top: 10px; 
+}
+
+.firstvenue{
+    display: flex;
+    padding: 20px 10px;
+    margin-left: 150px;
+}
+
+.box1{
+    width: 20%;
+    color: gray;
+}
+
+.map{
+    margin-left: 50px;
+    width: 650px;
+    height: 250px;
+}
+
+.footer{
+    border: 1px solid #293F50;
+    min-height: 100px;
+    background-color: #293F50;
+    display: flex;
+}
+
+.footpara{
+    margin-left: 200px;
+    margin-top: 50px;
+    color: white;
+}
+
+.footerul{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.footerul li{
+    list-style-type: none;
+    display: inline;
+    padding: 40px;
+    color: white;
+      
+}.footerul li a{
+    color: white;
+}
